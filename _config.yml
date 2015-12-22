@@ -1,7 +1,7 @@
 name: Successify
 favicon: null
 layout_spectrum: 0.76433
-typography_spectrum: 0.019116201205179095
+typography_spectrum: 0.78939
 title: 'Make a Life that Matters!'
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 1
   lightness: 0.6539711246732622
   saturation: 0.9308789174538106
-  rhythmicContrast: 0.11027575959451497
+  rhythmicContrast: 0.5
 purpose: []
