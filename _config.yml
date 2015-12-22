@@ -1,0 +1,28 @@
+name: Successify
+favicon: null
+layout_spectrum: 0.9496609335765243
+typography_spectrum: 0.019116201205179095
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3522517813835293
+  lightness: 0.6539711246732622
+  saturation: 0.9308789174538106
+  rhythmicContrast: 0.11027575959451497
+purpose: []
