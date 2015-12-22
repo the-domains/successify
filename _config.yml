@@ -23,7 +23,7 @@ color:
     - '#c92415'
     - '#c1bebe'
   brandStrength: 0
-  lightness: 0.6539711246732622
-  saturation: 0.9308789174538106
-  rhythmicContrast: 0.5
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
