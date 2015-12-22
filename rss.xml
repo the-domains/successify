@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Successify]]></title>
+        <description><![CDATA[Successify]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 22 Dec 2015 19:15:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[You Never Know]]></title>
+            <description><![CDATA[<article><h1>You Never Know</h1><p>Every day, no matter who you are or what you do you are influencing the people around you. Never underestimate your ability to positively influence the life of another human being. You may not know them, you may never see them again, but even the smallest acts of kindness can brighten the gloomiest day. You never know what other people are struggling with. You never know what terrible stress they may be under to pay their bills, or raise their kids, or find a job. A smile makes a difference. A kind word makes a difference. You make a difference.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1073d6927e9824df14c85f2be68f74578fcd5a1.jpg"></article>]]></description>
+            <link>undefinedyou-never-know/index.html</link>
+            <guid isPermaLink="false">f9938299-a8ee-4c7d-b3d1-7fc237dea011</guid>
+            <pubDate>Tue, 22 Dec 2015 19:15:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
